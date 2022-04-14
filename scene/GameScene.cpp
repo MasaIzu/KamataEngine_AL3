@@ -88,7 +88,7 @@ void GameScene::Update() {
 	  "scale:(%f,%f,%f)", worldTransform_.scale_.x, worldTransform_.scale_.y,
 	  worldTransform_.scale_.z);
 }
- 　
+ 
 void GameScene::Draw() {
 
 	// コマンドリストの取得
