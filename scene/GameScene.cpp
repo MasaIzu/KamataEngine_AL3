@@ -62,7 +62,7 @@ void GameScene::Update() {
 	//デバッグテキストの表示
 	debugText_->Print(strDebug, 50, 30, 1.0f);
 }
-
+ 
 void GameScene::Draw() {
 
 	// コマンドリストの取得
