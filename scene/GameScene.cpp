@@ -261,7 +261,7 @@ void GameScene::Update() {
 	//	viewProjection_.nearZ -= 0.1f;
 	//}
 
-	//行列の再計算
+	//行列の再計算a
 	viewProjection_.UpdateMatrix();
 
 	//デバッグ用表示
